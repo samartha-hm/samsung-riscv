@@ -3,7 +3,7 @@ Samsung RISC-V program
 
 ## My Details
 
-**Name:** SAMARTHA H M \n
+**Name:** SAMARTHA H M /n
 **College:** srinivas institute of technology \n
 **Email ID:** samarth.h.m.gadikal@gmail.com  \n
 **GitHub Profile:** [samartha-hm](https://github.com/samartha-hm) \n
