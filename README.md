@@ -11,7 +11,7 @@ Samsung RISC-V program
 
 **GitHub Profile:** [samartha-hm](https://github.com/samartha-hm) 
 
-**LinkedIN Profile:** [samartha.hm](https://www.linkedin.com/in/maazms-ece-vlsi/) 
+**LinkedIN Profile:** [samartha.hm](www.linkedin.com/in/samarthahm) 
 
 ----------------------------------------------------------------------------------------------------------------
 
