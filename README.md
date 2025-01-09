@@ -31,6 +31,6 @@ Samsung RISC-V program
 
 ![task 1/running sum1ton c file](https://github.com/samartha-hm/samsung-riscv/blob/main/task%201/running%20sum1ton%20c%20file.png)
 
-**4. Install Ubuntu 20.04 LTS on Oracle Virtual Machine Box**
+**4. operations**
 
 ![task 1/doing some operations](https://github.com/samartha-hm/samsung-riscv/blob/main/task%201/doing%20some%20operations.png)
