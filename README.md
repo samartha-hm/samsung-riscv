@@ -34,3 +34,14 @@ Samsung RISC-V program
 **4. operations**
 
 ![task 1/doing some operations](https://github.com/samartha-hm/samsung-riscv/blob/main/task%201/doing%20some%20operations.png)
+
+<summary><b>Task 2:</b> SPIKE Simulation </summary>  
+
+**1. before debuging**
+
+![task 2/before debuging](https://github.com/samartha-hm/samsung-riscv/blob/e04f2bacbbcc7a6e35dbb42c0919963f19da62b2/task%202/before%20debuging%20.png)
+
+**2. before debuging**
+
+![task 2/debuging](https://github.com/samartha-hm/samsung-riscv/blob/e04f2bacbbcc7a6e35dbb42c0919963f19da62b2/task%202/debugging.png)
+
