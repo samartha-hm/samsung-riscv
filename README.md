@@ -48,3 +48,10 @@ Samsung RISC-V program
 ![task 2/debuging](https://github.com/samartha-hm/samsung-riscv/blob/e04f2bacbbcc7a6e35dbb42c0919963f19da62b2/task%202/debugging.png)
 
 </details>
+
+<details>
+<summary><b>Task 3:</b> RISC-V Instruction Encoding Overview</summary>   
+<br>
+  
+**Task 3: RISC-V Instruction Encoding Overview**
+</details>
