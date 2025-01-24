@@ -55,3 +55,12 @@ Samsung RISC-V program
   
 **Task 3: RISC-V Instruction Encoding Overview**
 </details>
+
+<details>
+<summary><b>Task 4:</b> Functional Simulation of RISC-V Core</summary>   
+<br>
+  
+**Task 4:  Functional Simulation of RISC-V Core**
+
+![task 4](https://github.com/samartha-hm/samsung-riscv/tree/29439550b43791f939bc8deb1b6d503ade191611/Task%204)
+</details>
